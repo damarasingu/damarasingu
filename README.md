@@ -6,7 +6,6 @@ I like building things that feel right and work well, with a soft spot for good 
 ---
 
 ### featured work
-- **BrandMonitorAI** — analyzing brand presence and insights through data  
 - **DRDO Project** — applied engineering project focused on real-world problem solving  
 
 ---
